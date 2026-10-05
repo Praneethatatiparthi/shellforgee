@@ -1,0 +1,6 @@
+shellforge
+echo
+*.o
+*.gch
+review.txt
+test.txt
